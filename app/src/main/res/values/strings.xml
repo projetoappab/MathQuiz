@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MathQuiz - Prof Pabllo</string>
+    <string name="proxima_pergunta_placeholder">Próxima pergunta</string>
+    <string name="proxima_placeholder">Próxima</string>
+</resources>
